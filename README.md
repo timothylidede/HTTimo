@@ -1,6 +1,10 @@
 # HTTimo
 System that alters the content of a webpage into text only
 
+# IDE
+
+* NetBeans
+
 # What I Learned
 
 During my web-development class, I had a burning curiosity to see if I could alter the content of a webpage into text only and "borrow" contents of that website into my own projects.
